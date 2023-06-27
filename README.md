@@ -3,7 +3,7 @@
 <a name="readme-top"></a>
 
 
- #### <a href="https://github.com/almiraverse/css-watch">View Project</a>
+ #### <a href="[https://github.com/almiraverse/css-watch](https://almiraverse.github.io/css-watch/)">View Project</a>
     
 
 <!-- ABOUT THE PROJECT -->
@@ -24,6 +24,6 @@ This project was built using HTML, CSS, and some JavaScript.
 
 Almira A. Mohammed - [LinkedIn](https://www.linkedin.com/in/almiraam/) 
 
-Project Link: [https://github.com/almiraverse/css-watch](https://github.com/almiraverse/css-watch)
+Project Link: [https://github.com/almiraverse/css-watch](https://almiraverse.github.io/css-watch/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
